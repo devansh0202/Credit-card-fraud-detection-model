@@ -1,6 +1,6 @@
 # 🛡️ FraudShield — Real-Time Fraud Detection
 
-[![CI](https://github.com/YOUR_USERNAME/fraud-detection/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/fraud-detection/actions/workflows/ci.yml)
+[![CI](https://github.com/devansh0202/fraud-detection/actions/workflows/ci.yml/badge.svg)](https://github.com/devansh0202/fraud-detection/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange)
