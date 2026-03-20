@@ -16,7 +16,7 @@ A real-time fraud detection system that:
 ## Step 1 — Install Dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fraud-detection.git
+git clone https://github.com/devansh0202/fraud-detection.git
 cd fraud-detection
 pip install -r requirements.txt
 ```
